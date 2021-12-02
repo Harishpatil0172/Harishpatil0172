@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-#= Thanks for visiting my profile :)
+Thanks for visiting my profile :)
 
-###About me:
+About me:
 
 This is Harish Patil, a Certified Data scientist , with hands-on experience of more than 7 months ,on Excel>TABLU>PYTHON>SQL>MI>AL>NLP
 
