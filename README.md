@@ -4,7 +4,7 @@ Thanks for visiting my profile :)
 
 About me:
 
-This is Harish Patil, a Certified Data scientist , with hands-on experience of more than 7 months ,on Excel>TABLU>PYTHON>SQL>MI>AL>NLP
+This is Harish Patil, a Certified Data scientist , with hands-on experience of more than 7 months ,on Excel>TABLEAU>PYTHON>SQL>MI>AL>NLP
 
 More about me I am quick learner and a firm believer in learning.
 
