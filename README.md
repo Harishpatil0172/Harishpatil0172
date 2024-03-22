@@ -8,7 +8,6 @@
 
 - 💬 Ask me about **Any thing related to Data Science**
 
-- 📫 How to reach me **harishpatil0172@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <h3 align="left">www.linkedin.com/in/harish-patil-4a2173190/</h3>
